@@ -1,106 +1,29 @@
-👋 Hi, I'm Your Name!
+<h1 align="center">Hi 👋, I'm Shadab Ansari</h1>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-<h3 align="center">📊 Data Scientist | 🤖 AI/ML Enthusiast | 🐍 Python Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadabansari011&label=Profile%20views&color=0e75b6&style=flat" alt="shadabansari011" /> </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights+%F0%9F%93%8A;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+Smart+Solutions+With+Python+%F0%9F%90%8D;Learning+Something+New+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+- 🔭 I’m currently studying in **B.Tech CSE CCAI**
+
+- 🌱 I’m currently learning **Keras, Tensorflow and PyTorch**
+
+- 👯 I’m looking to collaborate on **Zero To Hero: Neural Network**
+
+- 🤝 I’m looking for help with **FastAPI Development**
+
+- 💬 Ask me about **HTML, CSS, JS, React, Python, Numpy**
+
+- 📫 How to reach me **shadab.dev.tech@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-🧑‍💻 About Me
-🔭 I'm passionate about Data Science, Artificial Intelligence and Machine Learning.
-🌱 Currently exploring data analysis, visualization and machine learning.
-📊 I enjoy discovering meaningful insights from complex datasets.
-🐍 Python is my primary programming language.
-🎯 My goal is to build intelligent, data-driven solutions.
-⚡ I believe that data tells stories, and I'm here to discover them!
-🛠️ Tech Stack & Tools
-💻 Programming Language
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadabansari011&show_icons=true&locale=en&layout=compact" alt="shadabansari011" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="55" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadabansari011&show_icons=true&locale=en" alt="shadabansari011" /></p>
 
-📊 Data Science & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-⚙️ Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
-📂 Featured Projects
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true" />
-</a>
-</p>
-
-💡 Project Ideas to Showcase
-📈 Exploratory Data Analysis: Discover trends and patterns in real-world datasets.
-📊 Data Visualization Dashboard: Create meaningful visualizations using Matplotlib and Seaborn.
-🤖 Machine Learning Project: Build predictive models using Python.
-🔍 Data Cleaning & Processing: Transform raw datasets into useful information.
-
-Replace these ideas with your actual project repositories as you build them.
-
-📈 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-🐍 Contribution Graph Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-</p>
-
-<h3 align="center">💡 "Data is the new oil, but insights are the real treasure."</h3>
-
-<p align="center">
-⭐ Thanks for visiting my profile! Let's explore the world of data together.
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:4158D0&height=120&section=footer" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadabansari011&" alt="shadabansari011" /></p>
